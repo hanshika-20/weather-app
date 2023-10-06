@@ -1,0 +1,1 @@
+A kotlin based application that displays the maximum, minimum temperature, wind speed, sea level, sunrise, sunset time and weather conditions of the city entered by the user. It also displays the maximum temperature, minimum temperature, day and date of that particular city. It uses API calling to fetch data.
